@@ -1,9 +1,6 @@
 //
-//  HoContainer.swift
-//  Vodafone LEAN
 //
 //  Created by Francesco Stabile on 30/01/25.
-//  Copyright © 2025 NTT DATA. All rights reserved.
 //
 
 protocol ContainerProtocol {

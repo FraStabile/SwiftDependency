@@ -9,8 +9,7 @@
 public class Context: ContextProtocol {
     
     
-    public init() {
-    }
+    public init() { }
     
     public var services: [String: Any] = [:]
     
