@@ -11,13 +11,14 @@ Un modulo leggero e flessibile per la Dependency Injection in Swift, che support
 - 📦 Container centralizzato per la gestione delle dipendenze
 - 🔒 Thread-safe con supporto per `@MainActor`
 
+
 ## Installazione
 
 ### Swift Package Manager
 
 ```swift
 dependencies: [
-    .package(url: "URL_DEL_TUO_REPOSITORY", from: "1.0.0")
+    .package(url: "https://github.com/FraStabile/SwiftDependency.git", from: "1.0.0")
 ]
 ```
 
