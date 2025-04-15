@@ -1,7 +1,9 @@
-/// MARK: - Property Wrappers per il ciclo di vita
-
-/// MARK: - Property Wrapper principale InjectProps
-
+//
+//  InjectProps.swift
+//  SwiftDependency
+//
+//  Created by Francesco Stabile on 15/04/25.
+//
 @propertyWrapper
 public struct InjectProps<T> {
     private let lifeCycle: LifeCycle
