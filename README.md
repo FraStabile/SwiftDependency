@@ -1,6 +1,11 @@
 
 # Swift Dependency Injection
 
+</br>
+<img src="Icon.png" alt="drawing" width="200"/>
+</br>
+</br>
+
 Un modulo leggero e flessibile per la Dependency Injection in Swift, che supporta diversi cicli di vita per le dipendenze.
 
 ## Caratteristiche Principali
